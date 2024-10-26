@@ -1,0 +1,10 @@
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\bin\Debug\two dice pig.exe.config
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\bin\Debug\two dice pig.exe
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\bin\Debug\two dice pig.pdb
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\obj\Debug\two dice pig.csproj.AssemblyReference.cache
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\obj\Debug\two_dice_pig.Form1.resources
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\obj\Debug\two_dice_pig.Properties.Resources.resources
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\obj\Debug\two dice pig.csproj.GenerateResource.cache
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\obj\Debug\two dice pig.csproj.CoreCompileInputs.cache
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\obj\Debug\two dice pig.exe
+C:\Users\Jenna\Downloads\piggy dice\two dice pig\two dice pig\obj\Debug\two dice pig.pdb
